@@ -21,11 +21,11 @@
   },
   "homepage": "https://github.com/takanopontaro/node-edit-xlsx",
   "dependencies": {
-    "libxmljs": "^0.9.0",
-    "mkdirp": "^0.5.0",
-    "node-zip": "^1.1.0",
-    "temp": "^0.7.0",
-    "underscore": "^1.6.0"
+    "libxmljs": "*",
+    "mkdirp": "*",
+    "node-zip": "*",
+    "temp": "*",
+    "underscore": "*"
   },
   "devDependencies": {
     "coffee-script": "^1.7.1",
