@@ -1,5 +1,5 @@
 {
-  "name": "edit-xlsx",
+  "name": "node-edit-xlsx",
   "version": "0.0.3",
   "description": "Edit an existing xlsx file.",
   "main": "./lib/main.js",
